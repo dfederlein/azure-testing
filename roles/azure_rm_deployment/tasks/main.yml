@@ -10,7 +10,7 @@
       dnsLabelPrefix:
         value: testvm9910001
       ubuntuOSVersion:
-        value: "14.04.6-LTS"
+        value: "14.04.5-LTS"
     # debug: "{{ playbook_debug }}" 
   register: output
 
